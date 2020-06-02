@@ -1,5 +1,7 @@
 package taxiPark;
 
+import exception.TaxiParkException;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Comparator;
@@ -40,7 +42,13 @@ public class TaxiPark {
         temp.forEach(o -> System.out.println(o.toString()));
     }
 
-    public void chooseBySpeed(Integer min, Integer max){
+    public void chooseBySpeed(Integer min, Integer max) throws TaxiParkException {
+        if (min<0 || max<0){
+            throw new TaxiParkException("only positive values accepted");
+        }
+        if (max<min){
+            throw new TaxiParkException("Max should be larger than Min");
+        }
         for (Car car: cars) {
             if (car.getSpeed()>=min && car.getSpeed()<=max){
                 System.out.println(car.toString());

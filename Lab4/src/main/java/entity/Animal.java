@@ -1,8 +1,9 @@
 package entity;
 
+import java.io.Serializable;
 import java.util.Objects;
 
-public class Animal {
+public class Animal implements Serializable {
     protected Integer age;
     protected Boolean tail;
     protected Boolean aggressive;
