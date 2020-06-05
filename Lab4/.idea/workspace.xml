@@ -2,44 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60298e92-5152-43a7-8863-5d5c43a905dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exception/TaxiParkException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/serialization/Connector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab5/Lab5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab5/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab5/src/mobile/Mobile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab5/src/mobilecomponent/Battery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab5/src/mobilecomponent/CPU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab6/Lab6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab6/src/com/by/ComedyFilm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab6/src/com/by/Film.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab6/src/com/by/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab6/src/com/by/NativeFilm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab7/Lab7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab9/src/main/java/by/bsu/lab9/file/LineChanger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab9/src/main/java/by/bsu/lab9/file/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab9/src/main/java/by/bsu/lab9/file/TextManipulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab9/src/main/java/by/bsu/lab9/file/WordsSwapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab9/src/main/resources/file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab9/src/main/resources/new_dir/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab9/src/main/resources/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab10/out/production/Lab10/by/shapiro/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab10/out/production/Lab10/by/shapiro/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/entity/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/entity/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/taxiPark/TaxiPark.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/taxiPark/TaxiPark.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/entity/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entity/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/taxiPark/TaxiPark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/taxiPark/TaxiPark.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/t.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/t.tmp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +78,8 @@
       <workItem from="1590583483438" duration="684000" />
       <workItem from="1590822849583" duration="3242000" />
       <workItem from="1591007923907" duration="2078000" />
+      <workItem from="1591122895582" duration="1126000" />
+      <workItem from="1591372196758" duration="22000" />
     </task>
     <servers />
   </component>
@@ -111,6 +87,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="538" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591123506065">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="538" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1591123506065" />
     <state x="574" y="128" width="459" height="647" key="#com.intellij.ide.util.MemberChooser" timestamp="1590823373513">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
